@@ -20,9 +20,6 @@ Ye project **Streamlit** frontend, **BERT** sentiment analysis aur **LangChain A
 
 User Idea -> SWOT Analysis -> Sentiment Analysis -> Competitor Fetch -> Output
 
-markdown
-Copy code
-
 ---
 
 ## ⚡ **Features**
@@ -30,7 +27,8 @@ Copy code
 ### 1️⃣ Full Dark Theme UI
 - Modern, stylish aur **user-friendly interface**.  
 - Hover effects on SWOT / competitor cards.  
-- Consistent dark background for sidebar, main content, aur charts.
+- Consistent dark background for sidebar, main content, aur charts
+- ------------------------------------------------------------------------------------------------------------------------------
 
 ### 2️⃣ Startup Idea Input
 - Users apna idea type kar sakte hai ya **pre-defined examples** select kar sakte hai:  
@@ -39,6 +37,7 @@ Copy code
   - Smart Waste Management  
   - AI Tutor for Programming  
   - Virtual AI Travel Guide
+  - -----------------------------------------------------------------------------------------
 
 ### 3️⃣ SWOT Analysis
 - Strengths, Weaknesses, Opportunities, Threats ke liye **dynamic cards**.  
@@ -47,25 +46,27 @@ Copy code
   - 🔴 Weaknesses → Red  
   - 🔵 Opportunities → Blue  
   - 🟠 Threats → Orange
+  - ----------------------------------------------------------------------------------------
 
 ### 4️⃣ Sentiment Analysis (BERT)
 - Idea ki **positivity / negativity** score karta hai.  
 - Score **0-100** aur label (Positive / Neutral / Negative) show hota hai.  
 - Card me **visual indicator** ke sath display.
-
+---------------------------------------------------------------------------------------------------------------------
 ### 5️⃣ Top Competitors
 - AI-based idea ke liye **relevant competitors fetch** karta hai (placeholder / future API integration).  
 - Card me **name + website link** show hota hai.
-
+------------------------------------------------------------------------------------
 ### 6️⃣ Radar Chart for SWOT
 - Interactive polar chart showing **number of points per SWOT category**.  
 - Helps user visually compare strengths vs weaknesses vs opportunities vs threats.
+- -----------------------------------------------------------------------------------------
 
 ### 7️⃣ LangChain Pipeline Integration
 - Multiple AI steps ek chain me run hote hai.  
 - Future enhancements: **Market trend analysis**, AI-powered **recommendations**, **investor scoring**.
 
----
+---------------------------------------------------------------------------------
 
 ## 🛠 **Technology Stack**
 
