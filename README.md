@@ -15,6 +15,8 @@ The AI Startup Idea Validator is designed to provide instant, AI-powered insight
 
 Traditional evaluation methods—manual research, SWOT analysis, market surveys, and sentiment evaluation—are time-consuming, subjective, and prone to inconsistencies. This project automates the process using AI, making it interactive, fast, and highly accurate.
 
+-------------------------------------
+
 ## Key Capabilities:
 
 🚀 **Instant SWOT Analysis** – Automatically generates Strengths, Weaknesses, Opportunities, and Threats, giving immediate, actionable insights to guide early-stage decision-making.
