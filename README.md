@@ -100,3 +100,87 @@ Traditional evaluation methods—manual research, SWOT analysis, market surveys,
 | **README.md**             | Detailed project documentation including features, setup, usage, and future improvements. |
 | **.gitignore**            | Ensures unwanted files like cache, compiled Python files, and venv are ignored by Git. |
 | **venv/**                 | Virtual environment folder. Contains all installed libraries and Python interpreter. Should not be pushed to Git. |
+
+----------------------------------------------
+## 🔹 Installation & Setup
+
+**Clone repository**
+
+git clone <repo-link>
+cd ai_startup_validator_langchain/ai_startup_validator_langchain
+
+-----------------------------------------------------------------
+**Create virtual environment (recommended)**
+
+python -m venv venv
+.\venv\Scripts\activate    # Windows
+source venv/bin/activate   # Linux / Mac
+
+---------------------------------------------------------------------------
+**Install dependencies**
+
+pip install -r requirements.txt
+
+------------------------------------------------------------------------------------
+
+**Run the app**
+streamlit run app.py
+
+------------------------------------------------------------------
+
+**Open in browser**
+
+Local URL: http://localhost:8501
+
+Network URL (if LAN): http://<your-ip>:8501
+
+----------------------------------------------------------------
+
+## 🔹 Usage
+
+Select a predefined example idea or type your own in the sidebar.
+
+Click “🚀 Analyze Idea”.
+
+----------------------------------------------------------------
+
+## View results:
+
+SWOT analysis cards
+
+Radar chart for comparison
+
+Sentiment score
+
+Top competitors
+
+--------------------------------------------------
+
+## 🔹 Future Improvements
+
+Real-time competitor fetching using SerpAPI / Google API
+
+Integration with LangChain agents for idea scoring & suggestions
+
+Market trend analytics & investor suitability score
+
+Multi-language support for non-English ideas
+
+-------------------------------------------
+## 👤 Author
+
+Atharva Chavhan
+
+GitHub: https://github.com/atharva18-hue
+
+LinkedIn: https://www.linkedin.com/in/atharva-chavhan-b5742b259/
+
+Email: atharvachavhan18@gmail.com
+
+--------------------------------------
+
+## 🔹 License
+
+© 2025 Atharv Chavhan. All rights reserved.
+
+----------------------------------------------------
