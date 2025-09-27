@@ -12,13 +12,19 @@
 
 ## 🔹 **Project Overview**
 
-**AI Startup Idea Validator** ek interactive web application hai jo **startup ideas ko analyze** karta hai aur user ko **SWOT analysis, sentiment score, aur top competitors** provide karta hai.  
+The AI Startup Idea Validator aims to provide instant, AI-driven feedback on startup ideas, helping founders and innovators assess their viability and potential market impact.
 
-Ye project **Streamlit** frontend, **BERT** sentiment analysis aur **LangChain AI pipeline** use karta hai.  
+Traditional evaluation methods rely on manual research, SWOT analysis, market surveys, and sentiment evaluation, which can be time-consuming and subjective.
 
-**Workflow:**
+This project automates the process using AI to make it interactive, fast, and accurate:
 
-User Idea -> SWOT Analysis -> Sentiment Analysis -> Competitor Fetch -> Output
+Instant SWOT Analysis: Generates strengths, weaknesses, opportunities, and threats for a startup idea.
+
+Sentiment Scoring: Quantifies the positivity/negativity of an idea using a BERT NLP model.
+
+Top Competitor Identification: Fetches relevant competitors using AI logic (with placeholders for future real API integration).
+
+Visual Insights: Presents insights in an interactive and user-friendly UI with radar charts and dynamic cards.
 
 ---
 
