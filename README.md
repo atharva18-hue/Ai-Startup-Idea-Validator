@@ -77,6 +77,7 @@ Traditional evaluation methods—manual research, SWOT analysis, market surveys,
 
 ## 🛠 **Technology Stack**
 
+
 | Layer | Tool / Technology |
 |-------|-----------------|
 | **Frontend / UI** | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) |
@@ -89,6 +90,7 @@ Traditional evaluation methods—manual research, SWOT analysis, market surveys,
 ---
 
 ### ✅ Explanation of project structure and of Each Component
+
 
 | File / Folder             | Description |
 |---------------------------|-------------|
