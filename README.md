@@ -75,7 +75,7 @@ Traditional evaluation methods—manual research, SWOT analysis, market surveys,
 
 ---------------------------------------------------------------------------------
 
-## 🛠 **Technology Stack**
+##  **Technology Stack**
 
 
 | Layer | Tool / Technology |
