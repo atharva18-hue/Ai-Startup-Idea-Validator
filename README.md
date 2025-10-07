@@ -1,4 +1,4 @@
-# <p align="center">🚀 <span style="color:#4CAF50">AI Startup Idea Validator (LangChain + BERT)</span></p>
+# <p align="center"> <span style="color:#4CAF50">AI Startup Idea Validator (LangChain + BERT)</span></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Frontend-Streamlit-blue?style=flat&logo=streamlit&logoColor=white" alt="Frontend"/>
@@ -10,7 +10,7 @@
 
 ---
 
-## 🔹 **Project Overview**
+##  **Project Overview**
 The AI Startup Idea Validator is designed to provide instant, AI-powered insights for startup ideas, enabling founders and innovators to assess viability and potential market impact efficiently.
 
 Traditional evaluation methods—manual research, SWOT analysis, market surveys, and sentiment evaluation—are time-consuming, subjective, and prone to inconsistencies. This project automates the process using AI, making it interactive, fast, and highly accurate.
@@ -19,25 +19,25 @@ Traditional evaluation methods—manual research, SWOT analysis, market surveys,
 
 ## Key Capabilities:
 
-🚀 **Instant SWOT Analysis** – Automatically generates Strengths, Weaknesses, Opportunities, and Threats, giving immediate, actionable insights to guide early-stage decision-making.
+ **Instant SWOT Analysis** – Automatically generates Strengths, Weaknesses, Opportunities, and Threats, giving immediate, actionable insights to guide early-stage decision-making.
 
-📊 **Sentiment Scoring** – Leverages a BERT-based NLP model to quantify idea positivity or negativity, providing a clear and objective evaluation of user-submitted ideas.
+ **Sentiment Scoring** – Leverages a BERT-based NLP model to quantify idea positivity or negativity, providing a clear and objective evaluation of user-submitted ideas.
 
-🏆 **Top Competitor Identification** – Uses AI logic to discover relevant competitors, with future integration for live market data, helping innovators benchmark their ideas effectively.
+ **Top Competitor Identification** – Uses AI logic to discover relevant competitors, with future integration for live market data, helping innovators benchmark their ideas effectively.
 
-🎨 **Visual Insights** – Presents results in an interactive, user-friendly interface with dynamic cards and radar charts, enabling users to visualize strengths, weaknesses, and opportunities at a glance.
+ **Visual Insights** – Presents results in an interactive, user-friendly interface with dynamic cards and radar charts, enabling users to visualize strengths, weaknesses, and opportunities at a glance.
 
 ---
 
-## ⚡ **Features**
+##  **Features**
 
-### 1️⃣ Full Dark Theme UI
+### 1️. Full Dark Theme UI
 - Modern, stylish aur **user-friendly interface**.  
 - Hover effects on SWOT / competitor cards.  
 - Consistent dark background for sidebar, main content, aur charts
 - ------------------------------------------------------------------------------------------------------------------------------
 
-### 2️⃣ Startup Idea Input
+### 2️. Startup Idea Input
 - Users apna idea type kar sakte hai ya **pre-defined examples** select kar sakte hai:  
   - AI Mental Health Companion  
   - Personalized Nutrition Planner  
@@ -46,30 +46,30 @@ Traditional evaluation methods—manual research, SWOT analysis, market surveys,
   - Virtual AI Travel Guide
   - -----------------------------------------------------------------------------------------
 
-### 3️⃣ SWOT Analysis
+### 3️. SWOT Analysis
 - Strengths, Weaknesses, Opportunities, Threats ke liye **dynamic cards**.  
 - Har category ke liye **colored left border**:  
-  - 🟢 Strengths → Green  
-  - 🔴 Weaknesses → Red  
-  - 🔵 Opportunities → Blue  
-  - 🟠 Threats → Orange
+  -  Strengths → Green  
+  -  Weaknesses → Red  
+  -  Opportunities → Blue  
+  -  Threats → Orange
   - ----------------------------------------------------------------------------------------
 
-### 4️⃣ Sentiment Analysis (BERT)
+### 4️. Sentiment Analysis (BERT)
 - Idea ki **positivity / negativity** score karta hai.  
 - Score **0-100** aur label (Positive / Neutral / Negative) show hota hai.  
 - Card me **visual indicator** ke sath display.
 ---------------------------------------------------------------------------------------------------------------------
-### 5️⃣ Top Competitors
+### 5️. Top Competitors
 - AI-based idea ke liye **relevant competitors fetch** karta hai (placeholder / future API integration).  
 - Card me **name + website link** show hota hai.
 ------------------------------------------------------------------------------------
-### 6️⃣ Radar Chart for SWOT
+### 6️. Radar Chart for SWOT
 - Interactive polar chart showing **number of points per SWOT category**.  
 - Helps user visually compare strengths vs weaknesses vs opportunities vs threats.
 - -----------------------------------------------------------------------------------------
 
-### 7️⃣ LangChain Pipeline Integration
+### 7️. LangChain Pipeline Integration
 - Multiple AI steps ek chain me run hote hai.  
 - Future enhancements: **Market trend analysis**, AI-powered **recommendations**, **investor scoring**.
 
@@ -89,7 +89,7 @@ Traditional evaluation methods—manual research, SWOT analysis, market surveys,
 
 ---
 
-### ✅ Explanation of project structure and of Each Component
+###  Explanation of project structure and of Each Component
 
 
 | File / Folder             | Description |
@@ -104,7 +104,7 @@ Traditional evaluation methods—manual research, SWOT analysis, market surveys,
 | **venv/**                 | Virtual environment folder. Contains all installed libraries and Python interpreter. Should not be pushed to Git. |
 
 ----------------------------------------------
-## 🔹 Installation & Setup
+##  Installation & Setup
 
 **Clone repository**
 
@@ -138,11 +138,11 @@ Network URL (if LAN): http://<your-ip>:8501
 
 ----------------------------------------------------------------
 
-## 🔹 Usage
+##  Usage
 
 Select a predefined example idea or type your own in the sidebar.
 
-Click “🚀 Analyze Idea”.
+Click “ Analyze Idea”.
 
 ----------------------------------------------------------------
 
@@ -158,7 +158,7 @@ Top competitors
 
 --------------------------------------------------
 
-## 🔹 Future Improvements
+##  Future Improvements
 
 Real-time competitor fetching using SerpAPI / Google API
 
@@ -169,7 +169,7 @@ Market trend analytics & investor suitability score
 Multi-language support for non-English ideas
 
 -------------------------------------------
-## 👤 Author
+##  Author
 
 Atharva Chavhan
 
@@ -181,7 +181,7 @@ Email: atharvachavhan18@gmail.com
 
 --------------------------------------
 
-## 🔹 License
+##  License
 
 © 2025 Atharv Chavhan. All rights reserved.
 
