@@ -104,6 +104,31 @@ Traditional evaluation methods—manual research, SWOT analysis, market surveys,
 | **venv/**                 | Virtual environment folder. Contains all installed libraries and Python interpreter. Should not be pushed to Git. |
 
 ----------------------------------------------
+## Project Screenshot
+
+<img width="1403" height="973" alt="Screenshot 2025-10-07 074603" src="https://github.com/user-attachments/assets/958c205c-16e1-45af-9b2b-0bf2fa32e966" />
+
+------------------------------------------
+<img width="1917" height="893" alt="Screenshot 2025-10-07 074722" src="https://github.com/user-attachments/assets/add86d71-ee6a-462b-9812-69973ff8af5f" />
+
+-----------------------------------------
+<img width="1919" height="963" alt="Screenshot 2025-10-07 074747" src="https://github.com/user-attachments/assets/ead8c60c-a5a4-4588-983b-415bf4e95ac5" />
+
+---------------------------------
+<img width="1918" height="960" alt="Screenshot 2025-10-07 074824" src="https://github.com/user-attachments/assets/f0ad3b43-e362-4e6c-9b6e-ce4d8ac2ec2e" />
+
+----------------------------------------
+<img width="1918" height="966" alt="Screenshot 2025-10-07 074846" src="https://github.com/user-attachments/assets/f8b0ede9-5e41-47ec-8f5b-1d03c1ab0f46" />
+
+----------------------------------------------
+<img width="1919" height="961" alt="Screenshot 2025-10-07 074946" src="https://github.com/user-attachments/assets/6d44acbe-5e39-47f8-ae1d-73ad088118a6" />
+
+-----------------------------------------------------------------
+<img width="1919" height="968" alt="Screenshot 2025-10-07 075019" src="https://github.com/user-attachments/assets/2cfd0e96-811a-4aca-a42f-bc1bf92998c3" />
+
+----------------------------------------------------------
+
+
 ##  Installation & Setup
 
 **Clone repository**
