@@ -32,11 +32,11 @@ Traditional evaluation methods—manual research, SWOT analysis, market surveys,
 ##  **Features**
 **1️. Full Dark Theme UI**
 
-Modern, stylish, and user-friendly interface.
+**.**Modern, stylish, and user-friendly interface.
 
-Hover effects on SWOT and competitor cards.
+**.**Hover effects on SWOT and competitor cards.
 
-Consistent dark background for sidebar, main content, and charts.
+**.**Consistent dark background for sidebar, main content, and charts.
 
 -----------------------------------------------------------
 
