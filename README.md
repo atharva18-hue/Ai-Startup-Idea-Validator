@@ -30,48 +30,79 @@ Traditional evaluation methods—manual research, SWOT analysis, market surveys,
 ---
 
 ##  **Features**
+**1️. Full Dark Theme UI**
 
-### 1️. Full Dark Theme UI
-- Modern, stylish aur **user-friendly interface**.  
-- Hover effects on SWOT / competitor cards.  
-- Consistent dark background for sidebar, main content, aur charts
-- ------------------------------------------------------------------------------------------------------------------------------
+Modern, stylish, and user-friendly interface.
 
-### 2️. Startup Idea Input
-- Users apna idea type kar sakte hai ya **pre-defined examples** select kar sakte hai:  
-  - AI Mental Health Companion  
-  - Personalized Nutrition Planner  
-  - Smart Waste Management  
-  - AI Tutor for Programming  
-  - Virtual AI Travel Guide
-  - -----------------------------------------------------------------------------------------
+Hover effects on SWOT and competitor cards.
 
-### 3️. SWOT Analysis
-- Strengths, Weaknesses, Opportunities, Threats ke liye **dynamic cards**.  
-- Har category ke liye **colored left border**:  
-  -  Strengths → Green  
-  -  Weaknesses → Red  
-  -  Opportunities → Blue  
-  -  Threats → Orange
-  - ----------------------------------------------------------------------------------------
+Consistent dark background for sidebar, main content, and charts.
 
-### 4️. Sentiment Analysis (BERT)
-- Idea ki **positivity / negativity** score karta hai.  
-- Score **0-100** aur label (Positive / Neutral / Negative) show hota hai.  
-- Card me **visual indicator** ke sath display.
----------------------------------------------------------------------------------------------------------------------
-### 5️. Top Competitors
-- AI-based idea ke liye **relevant competitors fetch** karta hai (placeholder / future API integration).  
-- Card me **name + website link** show hota hai.
-------------------------------------------------------------------------------------
-### 6️. Radar Chart for SWOT
-- Interactive polar chart showing **number of points per SWOT category**.  
-- Helps user visually compare strengths vs weaknesses vs opportunities vs threats.
-- -----------------------------------------------------------------------------------------
+-----------------------------------------------------------
 
-### 7️. LangChain Pipeline Integration
-- Multiple AI steps ek chain me run hote hai.  
-- Future enhancements: **Market trend analysis**, AI-powered **recommendations**, **investor scoring**.
+**2️. Startup Idea Input**
+
+Users can type their own idea or select from pre-defined examples such as:
+
+AI Mental Health Companion
+
+Personalized Nutrition Planner
+
+Smart Waste Management
+
+AI Tutor for Programming
+
+Virtual AI Travel Guide
+
+-------------------------------------------------
+
+**3️. SWOT Analysis**
+
+Dynamic cards for Strengths, Weaknesses, Opportunities, and Threats.
+
+Each category has a colored left border:
+
+Strengths → Green
+
+Weaknesses → Red
+
+Opportunities → Blue
+
+Threats → Orange
+
+-----------------------------------------------
+
+**4️. Sentiment Analysis (BERT)**
+
+Evaluates the positivity or negativity of the idea.
+
+Displays a 0–100 score along with a label (Positive / Neutral / Negative).
+
+Shown inside a card with a visual indicator.
+
+--------------------------------------
+
+**5️. Top Competitors**
+
+Fetches relevant competitors for the AI-based idea (currently using placeholders, future API integration planned).
+
+Displays name and website link on each card.
+
+---------------------------------------------------
+
+**6️. Radar Chart for SWOT**
+
+Interactive polar chart showing the number of points per SWOT category.
+
+Helps users visually compare strengths vs. weaknesses vs. opportunities vs. threats.
+
+-------------------------------------------
+
+**7️. LangChain Pipeline Integration**
+
+Multiple AI steps are executed sequentially in a single chain.
+
+Future enhancements: Market trend analysis, AI-powered recommendations, and investor scoring.
 
 ---------------------------------------------------------------------------------
 
