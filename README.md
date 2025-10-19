@@ -1,7 +1,5 @@
 # <p align="center"> <span style="color:#4CAF50">AI Startup Idea Validator (LangChain + BERT)</span></p>
-
-
-  
+ 
 ---
 
 ##  **Project Overview**
